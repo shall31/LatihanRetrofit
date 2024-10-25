@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github </string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="send">Kirim</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="detail"></string>
+    <string name="detail_followers">Followers</string>
+    <string name="detail_followings">Followings</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Followings</string>
+    <string name="content_tab_text">This is tab %1$d</string>
+    <string name="submit">submit</string>
+    <string name="favorite">favorite</string>
+    <string name="settings">settings</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
